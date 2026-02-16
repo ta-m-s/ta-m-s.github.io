@@ -45,8 +45,11 @@ tr {
   background-color: #fff;
 }
 tr:nth-child(2n) {
+  background-color: #f9f9f9
+}
+th {
   background: var(--theme-color);
-  color: #fff;
+  color: #fff
 }
 th, td {
   border: solid 1px #f0f0f0;
